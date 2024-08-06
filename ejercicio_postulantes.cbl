@@ -61,8 +61,8 @@ EXIT.
         DISPLAY WSV-NOMBRE_AUX ' NO CUMPLE'
     END-IF.
     
-     DISPLAY '__________________________________________'.
-     
-     INITIALIZE WSV-POSTULANTE-AUX.
+    DISPLAY '__________________________________________'.
+    
+    INITIALIZE WSV-POSTULANTE-AUX.
 20-EVALUAR-END.
 EXIT.

@@ -82,7 +82,7 @@ PROCEDURE DIVISION.
         WHEN WSV-MULTI
             PERFORM 25-MULTI
         WHEN OTHER
-            DISPLAY 'funcion no reconocida'
+            DISPLAY 'operacion no reconocida'
     END-EVALUATE.
     
     DISPLAY 'El resultado es: ' WSV-RESULTADO.
